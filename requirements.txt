@@ -1,0 +1,11 @@
+numpy==1.25.0
+pandas==2.0.3
+pretty-html-table==0.9.16
+psutil==5.9.5
+python-dateutil==2.8.2
+pytz==2023.3
+pywin32==306
+six==1.16.0
+tzdata==2023.3
+python-dotenv==1.0.0
+cryptography==41.0.3
