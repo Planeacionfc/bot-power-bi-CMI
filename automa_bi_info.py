@@ -26,7 +26,7 @@ def configurar_navegador(ruta_descarga):
     return driver
 
 def iniciar_sesion(driver,user,passw):
-    driver.get("https://app.powerbi.com/groups/d696634a-57af-413c-bea8-4f6b3e9f2933/dashboards/b5ece1fe-bdbd-4de6-ac4d-54eeea1039bd?experience=power-bi") #poner la url justo donde esta el panel
+    driver.get("https://app.powerbi.com/groups/d696634a-57af-413c-bea8-4f6b3e9f2933/dashboards/8bbab5dc-dbb4-41d3-b352-8032608cf16f?experience=power-bi") #poner la url justo donde esta el panel
     driver.maximize_window()
     time.sleep(6)
 
